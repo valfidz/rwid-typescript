@@ -2,6 +2,8 @@
 
 [![License](https://badgen.net/github/license/valfidz/rwid-typescript "License")](LICENSE.md)
 [![Release](https://badgen.net/github/release/valfidz/rwid-typescript "Release")](https://github.com/valfidz/rwid-typescript/releases)
+[![Test Status](https://github.com/valfidz/rwid-typescript/actions/workflows/main.yml/badge.svg "Test Status")](https://github.com/valfidz/rwid-typescript/actions/workflows/main.yml)
+[![Coverage Status](https://codecov.io/gh/valfidz/rwid-typescript/graph/badge.svg?token=OIYVDLIK28 "Coverage Status")](https://codecov.io/gh/valfidz/rwid-typescript)
 
 Learn TypeScript from basic
 
